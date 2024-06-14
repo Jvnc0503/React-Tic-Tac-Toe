@@ -68,7 +68,7 @@ export default function Game(){
         <ol></ol>
       </div>
     </div>
-  )
+  );
 }
 
 function calculateWinner(squares){
